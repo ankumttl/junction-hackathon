@@ -1,3 +1,7 @@
+to run: uvicorn main:app --reload
+Customer page → http://localhost:8000
+NEA Dashboard → http://localhost:8000/nea
+
 File 1: database.py
 This creates your database tables automatically.
 
